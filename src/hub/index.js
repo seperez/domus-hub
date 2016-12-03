@@ -24,4 +24,4 @@ class Hub {
   }
 }
 
-exports.Hub = Hub;
+module.exports = Hub;
