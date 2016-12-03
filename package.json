@@ -1,0 +1,24 @@
+{
+  "name": "domus-hub",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seperez/domus-hub.git"
+  },
+  "author": "Sebastian M. Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seperez/domus-hub/issues"
+  },
+  "homepage": "https://github.com/seperez/domus-hub#readme",
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}

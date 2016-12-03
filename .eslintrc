@@ -1,0 +1,15 @@
+{
+  "extends": [
+    'eslint-config-airbnb-base',
+  ],
+  "rules": {
+    "indent": ["error", 4],
+    "max-len": ["warn", 120, 2, {
+    "ignoreUrls": true,
+    "ignoreComments": false
+  }],
+  "no-param-reassign": ["error", { "props": false }],
+  "no-underscore-dangle": ["error", { "allow": ["_get", "_set"] }],
+  "no-unused-vars": ["warn"]
+  }
+}
