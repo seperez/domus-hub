@@ -21,5 +21,9 @@
     "eslint": "^3.11.1",
     "eslint-config-airbnb-base": "^10.0.1",
     "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    "j5-songs": "0.0.9",
+    "johnny-five": "^0.10.6"
   }
 }
